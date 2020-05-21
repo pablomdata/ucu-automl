@@ -13,3 +13,4 @@ AutoML course at UCU, Lviv
 
 ## To install dependencies:
 
+conda env create -f environment.yml
