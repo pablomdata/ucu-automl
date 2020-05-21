@@ -8,5 +8,5 @@
 	- Random Search (`RandomizedSearchCV`).
 	- Grid Search (`GridSearchCV`).
 	- Bayesian Optimization using GPy/GPyOpt.
-	- Extra: Another black-box method (i.e. grid search).
+	- Extra: Another black-box method (i.e. cross-entropy method, genetic algorithm, simulated annealing).
 	
